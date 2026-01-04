@@ -1,2 +1,2 @@
 # imagepulloperator
-ImagePull Secret Rotation Operator
+ImagePull Secret Rotator Operator
